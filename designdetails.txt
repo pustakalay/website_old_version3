@@ -1,0 +1,4 @@
+1. Fetch prices from various website and compare with minimum price to set appropriate price.
+2. search criteria to be added along with search keyword
+3. search suggestions to be added - AJAX
+4. spelling mistake while searching -- Regular expressions
